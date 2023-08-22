@@ -1,4 +1,4 @@
-# 3D Object detection & Tracking lidar pcd cluster
+# 2D Object detection & Tracking lidar pcd cluster
 
 ## Team 4 final project
 
